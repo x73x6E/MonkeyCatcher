@@ -1,0 +1,6 @@
+# vendors
+node_modules/
+*-lock.json
+
+# raw sources
+downloaded/
