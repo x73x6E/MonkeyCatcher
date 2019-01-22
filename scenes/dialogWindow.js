@@ -19,7 +19,7 @@ export default class dialogWindow extends Phaser.Scene {
 
                 background: this.rexUI.add.roundRectangle(0, 0, 100, 100, 20, 0x1ba75a),
 
-                content: this.add.text(0, 0, 'Use the banana to catch monkeys', {
+                content: this.add.text(0, 0, 'Use the banana to catch the monkeys in the boxes', {
                     font: '24px Verdana'
                 }),
 
